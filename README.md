@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Data analytics projects, dashboards, and AI-powered applications<br><br>👯 I’m looking to collaborate on: Data analysis, AI/ML projects, and automation workflows<br><br>🤝 I’m looking for help with: Scaling analytics projects and improving ML model deployment<br><br>🌱 I’m currently learning: Advanced SQL, data visualization, and applied machine learning<br><br>💬 Ask me about: Python, SQL, Power BI, Streamlit, data analytics, and AI tools
+🔭 I’m currently working on: Data analytics projects, dashboards, and AI-powered applications<br><br>👯 I’m looking to collaborate on: Data analysis, AI/ML projects, and automation workflows<br><br>🤝 I’m looking for help with: Scaling analytics projects and improving ML model deployment<br><br>🌱 I’m currently learning: Practical machine learning, deep learning fundamentals, advanced SQL, data visualization, and applied modeling techniques<br><br>💬 Ask me about: Python, SQL, Power BI, Streamlit, data analytics, and AI tools
 
 
 ## 🌐 Socials:
